@@ -6,6 +6,8 @@
 // 프랑스학과 2016022331 이재영
 typedef union iType //명령어 타입
 {
+
+    
     unsigned int I;
     struct rtype
     {
